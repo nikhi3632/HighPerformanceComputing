@@ -1,1 +1,1 @@
-# Coursework for APM525 - HighPerformanceComputing course
+# Coursework for APM525 - High Performance Computing course
